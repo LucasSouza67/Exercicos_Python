@@ -1,0 +1,12 @@
+numero = int(input("Informe um numero e exibiremos a sua tabuada: "))
+
+print("{} x {:2} = {}".format(numero, 1, 1*numero))
+print("{} x {:2} = {}".format(numero, 2, 2*numero))
+print("{} x {:2} = {}".format(numero, 3, 3*numero))
+print("{} x {:2} = {}".format(numero, 4, 4*numero))
+print("{} x {:2} = {}".format(numero, 5, 5*numero))
+print("{} x {:2} = {}".format(numero, 6, 6*numero))
+print("{} x {:2} = {}".format(numero, 7, 7*numero))
+print("{} x {:2} = {}".format(numero, 8, 8*numero))
+print("{} x {:2} = {}".format(numero, 9, 9*numero))
+print("{} x {:2} = {}".format(numero, 10, 10*numero))
